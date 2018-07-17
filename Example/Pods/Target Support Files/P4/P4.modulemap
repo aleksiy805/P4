@@ -1,0 +1,6 @@
+framework module P4 {
+  umbrella header "P4-umbrella.h"
+
+  export *
+  module * { export * }
+}
